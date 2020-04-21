@@ -1,6 +1,6 @@
 /*
-1. I need a nav section – but I'll come back to it.
-2. Create a header section, just focus on size and position.
+1. I need a nav section
+2. Create a header section.
 */
 
 * {
@@ -189,5 +189,26 @@ nav {
     font-family: fantasy;
     cursor: pointer;
 }
+.adi-box{
+    width: 600px;
+    height: 400px;
+    /*margi: 400px 1200px -500px 200px; */
+    position: relative;
+    top:-68px;
+    left: -550px;
+    background-color: rgb(97, 74, 197);
+
+}
+.bto box{
+    width: 500px;
+    height: 400px;
+    /*margi: 400px 1200px -500px 200px; */
+    position: relative;
+    top:68px;
+    left: 550px;
+    background-color:white
+    border: 1px solid darkgray;
+}
+
 
     
